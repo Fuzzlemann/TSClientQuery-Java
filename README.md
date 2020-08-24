@@ -12,7 +12,7 @@ An interface for the TeamSpeak 3 Client Query written in Java.
 * Event-based system for e.g. incoming messages
 
 ### Download
-You are able to download the latest build from [here](https://ci.fuzzlemann.de/job/TSClientQuery-Java/.
+You are able to download the latest build from [here](https://ci.fuzzlemann.de/job/TSClientQuery-Java/).
 
 ### Usage
 *!!! The usage of this API is likely to change in following releases. !!!*
